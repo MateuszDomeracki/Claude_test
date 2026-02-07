@@ -1,2 +1,2 @@
 To jest plik testowy
-ciekawe czy uruchomi się diff view
+Ciekawe czy uruchomi się diff view
